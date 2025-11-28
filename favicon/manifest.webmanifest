@@ -1,0 +1,10 @@
+{
+  "name": "srkkr.com",
+  "icons": [
+    { "src": "/favicon/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/favicon/icon-512.png", "type": "image/png", "sizes": "512x512" }
+	],
+	"display": "standalone",
+	"theme_color": "#207b7e",
+	"background_color": "#e2e8f0"
+}
